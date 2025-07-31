@@ -4,6 +4,10 @@ A simple web-based Tic Tac Toe game built using **HTML**, **CSS**, and **JavaScr
 
 ---
 
+## 🔹 Live Demo
+
+[View Here](https://r-tic-tac-toe-game.netlify.app/)
+
 ## 🔹 Features
 
 - Two-player gameplay  
@@ -34,10 +38,3 @@ A simple web-based Tic Tac Toe game built using **HTML**, **CSS**, and **JavaScr
 Click on empty cells to take turns.  
 Player who aligns three marks horizontally, vertically, or diagonally wins.  
 Use the reset button to start a new game.
-
----
-
-## 🔹 Live Demo
-
-[View Here](https://r-tic-tac-toe-game.netlify.app/)
-
